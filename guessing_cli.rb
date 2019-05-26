@@ -12,7 +12,7 @@ def run_guessing_game
       puts "Goodbye!"
       break
     end
-    
+
     if input == number
       puts "You guessed the correct number!"
     else
