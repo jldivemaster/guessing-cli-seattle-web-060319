@@ -1,6 +1,6 @@
 # Code your solution here!
 def run_guessing_game
-  game_on == true
+  game_on = true
 
   while true
     puts "Guess a number between 1 and 6."
